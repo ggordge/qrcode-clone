@@ -4,6 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 --
 
+https://ggordge.github.io/qrcode-clone/
+
 I was just learning about flexbox before starting this, so i spent such a ridiculous amount of time trying to force flex to work on a single element for no reason. Eventually I had to look to w3 for help with verticle alignment. Probably wildly over complicated the positioning in css, but hey it works.
 
 For a while I was convinced my eyes were playing tricks on me with that nearly transparent super soft shadow, didn't even know box shadow could do that. Used a cool tool to actually get the values: https://htmlcssfreebies.com/soft-border-box-shadow/
